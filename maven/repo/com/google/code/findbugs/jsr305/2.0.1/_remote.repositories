@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 17:08:28 ICT 2022
+jsr305-2.0.1.pom>central=
+jsr305-2.0.1.jar>rso-public-grid=
+jsr305-2.0.1.pom>rso-public-grid=
+jsr305-2.0.1.jar>central=

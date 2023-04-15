@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 17:07:43 ICT 2022
+jersey-core-1.17.1.jar>central=
+jersey-core-1.17.1.pom>rso-public-grid=
+jersey-core-1.17.1.jar>rso-public-grid=

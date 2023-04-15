@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 17:03:36 ICT 2022
+httpclient-4.2.2.jar>rso-public-grid=
+httpclient-4.2.2.jar>central=
+httpclient-4.2.2.pom>rso-public-grid=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 17:06:47 ICT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1653991607183
+http\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact net.jcip\:jcip-annotations\:pom\:1.0 from/to jboss (http\://repository.jboss.org/nexus/content/groups/public/)\: Failed to transfer http\://repository.jboss.org/nexus/content/groups/public/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.pom. Error code 503, Service Unavailable
+@default-jboss-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1653991606744

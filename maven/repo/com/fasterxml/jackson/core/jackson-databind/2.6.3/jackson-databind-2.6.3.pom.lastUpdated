@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 17:07:02 ICT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1653991622995
+http\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-databind\:pom\:2.6.3 from/to jboss (http\://repository.jboss.org/nexus/content/groups/public/)\: Failed to transfer http\://repository.jboss.org/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-databind/2.6.3/jackson-databind-2.6.3.pom. Error code 503, Service Unavailable
+@default-jboss-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1653991622545

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 17:07:22 ICT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1653991642707
+http\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact com.sun.istack\:istack-commons-runtime\:jar\:2.16 from/to jboss (http\://repository.jboss.org/nexus/content/groups/public/)\: Failed to transfer http\://repository.jboss.org/nexus/content/groups/public/com/sun/istack/istack-commons-runtime/2.16/istack-commons-runtime-2.16.jar. Error code 503, Service Unavailable
+@default-jboss-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1653991636930

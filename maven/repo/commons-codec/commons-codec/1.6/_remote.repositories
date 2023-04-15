@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 17:03:36 ICT 2022
+commons-codec-1.6.jar>central=
+commons-codec-1.6.pom>rso-public-grid=
+commons-codec-1.6.jar>rso-public-grid=

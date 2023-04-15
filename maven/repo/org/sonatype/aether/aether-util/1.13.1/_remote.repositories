@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 17:10:20 ICT 2022
+aether-util-1.13.1.jar>rso-public-grid=
+aether-util-1.13.1.pom>rso-public-grid=
+aether-util-1.13.1.jar>central=

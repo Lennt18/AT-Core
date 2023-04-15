@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 17:10:20 ICT 2022
+xpp3_min-1.1.4c.jar>rso-public-grid=
+xpp3_min-1.1.4c.jar>central=
+xpp3_min-1.1.4c.pom>rso-public-grid=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 17:06:48 ICT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1653991608160
+http\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact org.jboss.logging\:jboss-logging\:pom\:3.1.4.GA from/to jboss (http\://repository.jboss.org/nexus/content/groups/public/)\: Failed to transfer http\://repository.jboss.org/nexus/content/groups/public/org/jboss/logging/jboss-logging/3.1.4.GA/jboss-logging-3.1.4.GA.pom. Error code 503, Service Unavailable
+@default-jboss-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1653991607724

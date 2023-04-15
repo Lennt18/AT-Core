@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 17:03:36 ICT 2022
+mojo-commons-1.1.jar>rso-public-grid=
+mojo-commons-1.1.jar>central=
+mojo-commons-1.1.pom>rso-public-grid=

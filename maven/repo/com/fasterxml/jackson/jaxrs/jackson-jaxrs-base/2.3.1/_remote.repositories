@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 17:07:43 ICT 2022
+jackson-jaxrs-base-2.3.1.jar>central=
+jackson-jaxrs-base-2.3.1.pom>rso-public-grid=
+jackson-jaxrs-base-2.3.1.jar>rso-public-grid=

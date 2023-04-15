@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 17:07:07 ICT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1653991627926
+http\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact com.fasterxml.jackson.module\:jackson-module-jaxb-annotations\:pom\:2.6.3 from/to jboss (http\://repository.jboss.org/nexus/content/groups/public/)\: Failed to transfer http\://repository.jboss.org/nexus/content/groups/public/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.6.3/jackson-module-jaxb-annotations-2.6.3.pom. Error code 503, Service Unavailable
+@default-jboss-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1653991627493

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 17:06:41 ICT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1653991601255
+http\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact org.apache.httpcomponents\:httpcomponents-client\:pom\:4.3.6 from/to jboss (http\://repository.jboss.org/nexus/content/groups/public/)\: Failed to transfer http\://repository.jboss.org/nexus/content/groups/public/org/apache/httpcomponents/httpcomponents-client/4.3.6/httpcomponents-client-4.3.6.pom. Error code 503, Service Unavailable
+@default-jboss-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1653991600803

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 17:07:22 ICT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1653991642694
+http\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact com.sun.xml.bind\:jaxb-core\:jar\:2.2.7 from/to jboss (http\://repository.jboss.org/nexus/content/groups/public/)\: Failed to transfer http\://repository.jboss.org/nexus/content/groups/public/com/sun/xml/bind/jaxb-core/2.2.7/jaxb-core-2.2.7.jar. Error code 503, Service Unavailable
+@default-jboss-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1653991636928
